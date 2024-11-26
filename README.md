@@ -5,9 +5,11 @@ This is a goup work for develop a mobile application using flutter. The students
 ## Members List
 
 1. **MUGISHA Valantin**
-2. **Akayezu Deborah**
-3. **Akayezu Deborah**
-4. **Akayezu Deborah**
+2. **MUNEZERO Esther**
+3. **UMUTONIWASE marie Denyse**
+4. **BARAMBA Lewis**
+5. **IRAHARI Gachel**
+6. **IRASUBIZA Gideon**
 
 ## Local Development
 
